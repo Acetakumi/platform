@@ -1,0 +1,13 @@
+# ninja log v6
+15	588	7547093729209135	CMakeFiles/website.dir/Socialmediaplatform.cpp.obj	2ad79ceaf2b6f86d
+16	540	7547077061046855	CMakeFiles/website.dir/Post.cpp.obj	8aaec5aa4dbcb0c6
+5	526	7547090367083268	CMakeFiles/website.dir/main.cpp.obj	13c2213c5a835235
+588	732	7547093734935557	website.exe	97f869863364e73f
+5	542	7547077060936830	CMakeFiles/website.dir/User.cpp.obj	169f298f4f490bd7
+4	586	7547101854501826	CMakeFiles/website.dir/Socialmediaplatform.cpp.obj	2ad79ceaf2b6f86d
+586	756	7547101860330021	website.exe	97f869863364e73f
+4	542	7547166662066155	CMakeFiles/website.dir/main.cpp.obj	13c2213c5a835235
+34	580	7547166662356223	CMakeFiles/website.dir/Post.cpp.obj	8aaec5aa4dbcb0c6
+17	581	7547166662196190	CMakeFiles/website.dir/User.cpp.obj	169f298f4f490bd7
+51	682	7547166662526263	CMakeFiles/website.dir/Socialmediaplatform.cpp.obj	2ad79ceaf2b6f86d
+682	841	7547166668837682	website.exe	97f869863364e73f
